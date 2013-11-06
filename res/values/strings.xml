@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToastCenter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="toast_center_text">Toast with Center Text</string>
+    <string name="center_toast">Centered Toast</string>
+    <string name="toast_with_both_centered">Toast with Centered Text and OnScreen</string>
+
+</resources>
